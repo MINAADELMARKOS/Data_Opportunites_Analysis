@@ -3,7 +3,7 @@
 Welcome to the Data Opportunities Analysis project! This repository contains a dataset of job listings and company information, along with scripts and analysis notebooks for exploring various aspects of job opportunities in the data industry. Whether you are interested in understanding salary trends, job locations, company ratings, or industry sectors, this project aims to provide insights into data job opportunities.
 
 <center>
-<img src="Data_Ai.jpg" alt="" width="700px" height="200px">
+<img src="Data_Ai.jpg" alt="" width="800px" height="300px">
 </center>
 
 ## Table of Contents
